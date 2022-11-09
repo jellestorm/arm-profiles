@@ -8,7 +8,7 @@ lxc-android
 halium-wrappers
 
 # Libhybris 
---overwrite ocl-icd libhybris-glvnd
+--overwrite ocl-icd libhybris-glvnd --overwrite ocl-icd libhybris-28-glvnd
 
 # Post-install
 volla-yggdrasil-post-install
