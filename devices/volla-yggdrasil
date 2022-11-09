@@ -8,8 +8,8 @@ lxc-android
 halium-wrappers
 
 # Libhybris
--R \*ocl-icd
-libhybris-glvnd
+
+--confirm libhybris-glvnd
 
 
 # Post-install
