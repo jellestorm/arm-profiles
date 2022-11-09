@@ -7,9 +7,9 @@ hybris-usb
 lxc-android
 halium-wrappers
 
-# Libhybris 
---overwrite ocl-icd libhybris-glvnd
---overwrite ocl-icd libhybris-28-glvnd
+# Libhybris
+-R ocl-icd
+libhybris-glvnd
 
 # Post-install
 volla-yggdrasil-post-install
