@@ -9,7 +9,7 @@ halium-wrappers
 
 # Libhybris
 
---confirm libhybris-glvnd
+--confirm libhybris-glvnd libhybris-28-glvnd
 
 
 # Post-install
